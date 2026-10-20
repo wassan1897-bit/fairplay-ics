@@ -3,7 +3,7 @@ VERSION:2.0
 PRODID:-//Fair Play//Calendar Exporter//NL
 BEGIN:VEVENT
 UID:Geleen__Freespin-Jackpot-buren__20261129__1500@fairplay.nl
-DTSTAMP:20261020T095001Z
+DTSTAMP:20261020T124026Z
 DTSTART;TZID=Europe/Amsterdam:20261129T150000
 DTEND;TZID=Europe/Amsterdam:20261129T220000
 SUMMARY:Freespin-Jackpot-buren
