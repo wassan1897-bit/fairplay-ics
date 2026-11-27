@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Fair Play//Calendar Exporter//NL
+BEGIN:VEVENT
+UID:Rotterdam__Lucky_Jackpot_Time_Roulette__20261215__1400@fairplay.nl
+DTSTAMP:20261127T130821Z
+DTSTART;TZID=Europe/Amsterdam:20261215T140000
+DTEND;TZID=Europe/Amsterdam:20261215T180000
+SUMMARY:Lucky Jackpot Time Roulette
+LOCATION:Fair Play Casino Rotterdam
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Herinnering: Lucky Jackpot Time Roulette
+END:VALARM
+END:VEVENT
+END:VCALENDAR
