@@ -2,10 +2,10 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Fair Play//Calendar Exporter//NL
 BEGIN:VEVENT
-UID:Eindhoven_2__Lucky_Jackpot_Time_Silver__20261201__1400@fairplay.nl
+UID:Eindhoven_2__Lucky_Jackpot_Time_Silver__20261201__2000@fairplay.nl
 DTSTAMP:20261127T130821Z
-DTSTART;TZID=Europe/Amsterdam:20261201T140000
-DTEND;TZID=Europe/Amsterdam:20261201T160000
+DTSTART;TZID=Europe/Amsterdam:20261201T200000
+DTEND;TZID=Europe/Amsterdam:20261201T220000
 SUMMARY:Lucky Jackpot Time Silver
 LOCATION:Fair Play Casino Eindhoven 2
 BEGIN:VALARM
@@ -15,10 +15,10 @@ DESCRIPTION:Herinnering: Lucky Jackpot Time Silver
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:Eindhoven_2__Lucky_Jackpot_Time_Silver__20261208__1400@fairplay.nl
+UID:Eindhoven_2__Lucky_Jackpot_Time_Silver__20261208__2000@fairplay.nl
 DTSTAMP:20261127T130821Z
-DTSTART;TZID=Europe/Amsterdam:20261208T140000
-DTEND;TZID=Europe/Amsterdam:20261208T160000
+DTSTART;TZID=Europe/Amsterdam:20261208T200000
+DTEND;TZID=Europe/Amsterdam:20261208T220000
 SUMMARY:Lucky Jackpot Time Silver
 LOCATION:Fair Play Casino Eindhoven 2
 BEGIN:VALARM
@@ -28,10 +28,10 @@ DESCRIPTION:Herinnering: Lucky Jackpot Time Silver
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:Eindhoven_2__Lucky_Jackpot_Time_Silver__20261215__1400@fairplay.nl
+UID:Eindhoven_2__Lucky_Jackpot_Time_Silver__20261215__2000@fairplay.nl
 DTSTAMP:20261127T130821Z
-DTSTART;TZID=Europe/Amsterdam:20261215T140000
-DTEND;TZID=Europe/Amsterdam:20261215T160000
+DTSTART;TZID=Europe/Amsterdam:20261215T200000
+DTEND;TZID=Europe/Amsterdam:20261215T220000
 SUMMARY:Lucky Jackpot Time Silver
 LOCATION:Fair Play Casino Eindhoven 2
 BEGIN:VALARM
